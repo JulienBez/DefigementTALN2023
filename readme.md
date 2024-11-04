@@ -1,4 +1,4 @@
-# DéfigementTALN2023
+# DefigementTALN2023
 
 This repository contains data files introduced in our paper "Reconnaissance de défigements dans des tweets en français par similarité d'alignements textuels" (TALN 2023). 2 files can be found :
 
